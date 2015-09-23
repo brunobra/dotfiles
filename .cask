@@ -12,16 +12,13 @@ installcask dropbox
 installcask google-drive
 
 # Others
-installcask vlc
 installcask skype
 installcask cleanmymac
 installcask evernote
 installcask android-file-transfer
 
-# Arduino
-installcask arduino
-
 # Code
+installcask arduino
 installcask android-studio
 installcask wireshark
 installcask sublime-text3
