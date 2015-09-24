@@ -16,6 +16,7 @@ installcask skype
 installcask cleanmymac
 installcask evernote
 installcask android-file-transfer
+installcask colorpicker
 
 # Code
 installcask arduino
