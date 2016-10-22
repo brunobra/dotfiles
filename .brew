@@ -26,9 +26,5 @@ brew install sqlite
 brew install mysql
 brew install postgresql
 
-# Brew cask -  to install native apps
-brew install phinze/cask/brew-cask
-brew tap caskroom/versions
-
 # Remove outdated versions from the cellar
 brew cleanup
