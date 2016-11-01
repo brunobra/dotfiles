@@ -6,6 +6,7 @@ xcode-select --install
 ./.brew
 ./.cask
 ./.pip
+./.npm
 
 # Copy config files
 cp .vimrc $HOME/
