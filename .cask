@@ -5,6 +5,7 @@ function installcask() {
 
 # Browsers
 installcask google-chrome
+installcask firefox
 
 # Cloud
 installcask dropbox
@@ -20,3 +21,7 @@ installcask colorpicker
 installcask arduino
 installcask android-studio
 installcask wireshark
+installcask virtualbox
+installcask java
+installcask docker
+installcask vagrant

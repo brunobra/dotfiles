@@ -4,15 +4,17 @@ brew upgrade
 # Essencials
 brew install vim
 brew install git
-brew install gcc
 
 # Utils
-brew install lsusb
 brew tap homebrew/services
+
+# GNU
+brew install wget
+brew install bash
+brew install bash-completion
 
 # Programming Languages
 brew install python
-brew install python-dev
 brew install nodejs
 
 # Qt
@@ -25,6 +27,9 @@ brew install mongodb
 brew install sqlite
 brew install mysql
 brew install postgresql
+
+# Others
+brew install nmap
 
 # Remove outdated versions from the cellar
 brew cleanup
