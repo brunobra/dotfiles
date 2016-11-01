@@ -5,3 +5,5 @@ function installglobal() {
 installglobal grunt-cli
 installglobal grunt
 installglobal gulp
+installglobal webpack
+installglobal serverless
