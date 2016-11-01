@@ -1,0 +1,5 @@
+# Dependencies for Omnize #
+###########################
+
+brew install glassfish
+brew install maven

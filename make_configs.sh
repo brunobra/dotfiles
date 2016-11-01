@@ -8,5 +8,8 @@ xcode-select --install
 ./.pip
 ./.npm
 
+# Omnize
+./.omz
+
 # Copy config files
 cp .vimrc $HOME/
