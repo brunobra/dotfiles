@@ -17,6 +17,8 @@ installcask evernote
 installcask android-file-transfer
 installcask colorpicker
 installcask slack
+installcask teamviewer
+installcask spotify
 
 # Code
 installcask arduino
@@ -26,3 +28,4 @@ installcask virtualbox
 installcask java
 installcask docker
 installcask vagrant
+installcask psequel
