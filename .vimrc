@@ -15,6 +15,7 @@ call vundle#begin()
 " Plugins
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'scrooloose/nerdtree'
+Plugin 'tpope/vim-fugitive'
 
 " End Vundle
 call vundle#end()
